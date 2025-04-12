@@ -4,7 +4,7 @@ editLink: true
 layout: doc
 ---
 
-# ubuntu系统安装
+# {{ $frontmatter.title }}
 
 
 

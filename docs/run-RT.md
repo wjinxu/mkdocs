@@ -4,13 +4,13 @@ editLink: true
 layout: doc
 ---
 
-# single-cycle处理器启动RT
+# {{ $frontmatter.title }}
 
 ## 一、参考设计处理器启动RT
 
 1. 克隆`RT`项目
 
-执行下面的命令，克隆`RT`项目
+执行下面的命令，克隆`RT`
 ``` shell
 $ git clone git@github.com:cs-prj-repo/rt-thread-am.git
 ```

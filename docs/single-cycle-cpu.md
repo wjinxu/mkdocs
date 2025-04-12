@@ -4,7 +4,7 @@ editLink: true
 layout: doc
 ---
 
-### single-cycle-cpu项目使用指南
+# {{ $frontmatter.title }}
 
 ::: tip 注意事项：使用最新的项目代码和文档！
 项目会持续修复一些错误或增加一些对用户友好的内容，因此项目和文档会有不间断的更新，我们需要使用最新的项目和文档
